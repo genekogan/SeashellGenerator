@@ -20,5 +20,10 @@ Load the program and behold the beautiful Precious Wentletrap. Click-dragging th
 
 You can control the color and transparency of the mesh with the color sliders, and view the shell as a wireframe.
 
-The mesh can be exported to a 3d-printer ready STL file, with the export feature on top right. The STL file goes to the export folder.
+The mesh can be exported to an 3d-printer ready STL file, with the export feature on top right. The STL file goes to the export folder. If you want to print it, you first need to [run through this process in MeshLab (free)](http://www.shapeways.com/forum/index.php?t=msg&goto=8163) to thicken the walls of the mesh, and scale it to the right size.
 
+## Screenshots
+
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator5_gh_.png)
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator4_gh_.png)
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator3_gh_.png)
