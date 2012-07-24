@@ -24,6 +24,6 @@ The mesh can be exported to an 3d-printer ready STL file, with the export featur
 
 ## Screenshots
 
-![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator5_gh_.png)
-![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator4_gh_.png)
-![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator3_gh_.png)
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator5_gh.png)
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator4_gh.png)
+![http://www.genekogan.com/experiments/seashell-fabrication.html](http://www.genekogan.com/images/seashell-fabrication/generator3_gh.png)
